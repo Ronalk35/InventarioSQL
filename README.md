@@ -111,6 +111,8 @@ Por ejemplo, producto está relacionado con categoria, y pedido_factura está vi
 **Server:**
 MySQL: Sistema de gestión de bases de datos relacional para almacenar información de productos y usuarios.
 
+**Nota:**
+Próximamente, estaré compartiendo un proyecto completo desarrollado en Visual Studio Code. Este proyecto utiliza Angular para el frontend y IntelliJ IDEA para el backend, aplicando esta misma base de datos diseñada para la gestión de un inventario logístico de tipo ferretería.
 
 ## Screenshots
 
